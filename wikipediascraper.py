@@ -2,7 +2,7 @@
 # If you have python3, you can't run it unless you start with 'python3' (not 'python')
 # Need to have Beautiful Soup and requests installed under python3 - have to install them with 'pip3 install BeautifulSoup4' and 'pip3 install requests' as opposed to 'pip install requests'
 
-# I skipped the identify yourself step
+# I skipped the identify yourself step, although you should have it if you think you might get contacted
 
 # There only seemed to be one Wikipedia page on women computer scientists, so I had a list of one url
 
