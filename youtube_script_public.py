@@ -1,4 +1,4 @@
-# For a working URL, you need your own API key. Get one from the Google APIS console using your Google name/password
+# For a working URL, you need your own API key. Get one from the Google APIS console using your Google name/password. Once you have that, paste it into the part that says "your_API_key_here" in line 9
 
 # Remember to run it on Mac you have to say "python3 youtube_script.py"
 
